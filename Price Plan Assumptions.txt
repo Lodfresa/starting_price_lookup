@@ -1,0 +1,11 @@
+The problem is realized using the following technologies
+
+1. Python
+2. Windows Environment
+3. Selenium WebDriver with Chrome Driver
+
+Assumptions
+
+1. Top 12 Devices will be the default devices listed in the web page
+2. Chrome driver was imported into local machine and exported to local env
+3. PyCharm IDE was used
